@@ -1,0 +1,3 @@
+﻿PID,PPID,ProcessName,Path
+1000,500,explorer.exe,C:\Windows\explorer.exe
+2000,1000,powershell.exe,C:\Users\Temp\evil.ps1
